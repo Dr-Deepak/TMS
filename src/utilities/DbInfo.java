@@ -7,9 +7,9 @@
 package utilities;
 
 public class DbInfo {    
-    private final String DB_URL = "jdbc:mysql://sql.computerstudi.es:3306/gc200329873";//"jdbc:mysql://sql.computerstudi.es:3306/gc200327564";
-    private final String DB_UsName = "gc200329873";
-    private final String DB_PsWord = "Jhm-JFa^";  
+    private final String DB_URL = "jdbc:mysql://sql.computerstudi.es:3306/gc200327564";//"jdbc:mysql://sql.computerstudi.es:3306/gc200327564";
+    private final String DB_UsName = "gc200327564";
+    private final String DB_PsWord = "R2-fiCGQ";  
 
     public String getDB_URL() {
         return DB_URL;
